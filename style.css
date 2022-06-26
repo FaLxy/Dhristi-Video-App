@@ -1,6 +1,7 @@
 body{
     line-height: 0;
 }
+
 #video-call-div{
     position: relative;
     display: flex;
